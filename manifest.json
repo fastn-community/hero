@@ -1,0 +1,116 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "hash": "A4BA7A7C33BACF2A61644D1DC013CB54D7C1A9F6B37138CF7ABDFC0102DD394E",
+      "size": 1353
+    },
+    "assets/ipsum-logo.svg": {
+      "name": "assets/ipsum-logo.svg",
+      "hash": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
+      "size": 15494
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "A4387B4E7D12A5A1466DAB160ACB469E93DDB9D148E8FA38D558A9FA24B24E5B",
+      "size": 23874
+    },
+    "docs/hero-right-hug-search.ftd": {
+      "name": "docs/hero-right-hug-search.ftd",
+      "hash": "8CC1F7F0F977A52B3BE171324739C930B1E4014D236710B06807FE93B438C4BC",
+      "size": 2797
+    },
+    "docs/hero-right-hug-expanded-search.ftd": {
+      "name": "docs/hero-right-hug-expanded-search.ftd",
+      "hash": "D8286B017CFCF40C506DE05B94573932FD02D2814F66BE22369D66454AB02D93",
+      "size": 2856
+    },
+    "assets/hero-img.jpg": {
+      "name": "assets/hero-img.jpg",
+      "hash": "28604A38DB8D8EB3112454584C7E0699956F4E2754A97EDA568738D02ADA9D47",
+      "size": 970300
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "hash": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
+      "size": 15406
+    },
+    "docs/hero-left-hug-expanded.ftd": {
+      "name": "docs/hero-left-hug-expanded.ftd",
+      "hash": "60C6D09B23D5A0329C334A78F1B97B59D86757529D1E2CA945893AFFB123687E",
+      "size": 3300
+    },
+    "assets/ipsum-logo-dark.svg": {
+      "name": "assets/ipsum-logo-dark.svg",
+      "hash": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
+      "size": 16202
+    },
+    "assets/check-solid.svg": {
+      "name": "assets/check-solid.svg",
+      "hash": "25707971B1D5D56A96168FAB177FD9A0E1CBC4959E080BA1FA7C3632D05A0525",
+      "size": 428
+    },
+    "docs/hero-right-hug-large.ftd": {
+      "name": "docs/hero-right-hug-large.ftd",
+      "hash": "92D6E67EB566A1C4A1AB23FDDE4592EFA14286F9DC09AFF2198FB2462B8F8656",
+      "size": 3094
+    },
+    "docs/hero-right-hug-search-label.ftd": {
+      "name": "docs/hero-right-hug-search-label.ftd",
+      "hash": "1C6F78A2D85EBE8DA9C31609562CA95B81149375C724A230B1906F34B28B6A30",
+      "size": 3112
+    },
+    "sidebar.ftd": {
+      "name": "sidebar.ftd",
+      "hash": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
+      "size": 1281
+    },
+    "docs/hero-right-hug.ftd": {
+      "name": "docs/hero-right-hug.ftd",
+      "hash": "524FE2745CC0B3B720BA50E6B92E4F7F7670FC87FE1CB1BF6FBD641DA9000BEB",
+      "size": 3082
+    },
+    "docs/hero-bottom-hug-search.ftd": {
+      "name": "docs/hero-bottom-hug-search.ftd",
+      "hash": "A34E38390851C363BB44AC4C051C4882BB5D4575104586B96BCE7289E388B024",
+      "size": 2816
+    },
+    "docs/hero-bottom-hug.ftd": {
+      "name": "docs/hero-bottom-hug.ftd",
+      "hash": "738E897B8D24072A22D76D80E9108612CF88F77BCE3937F29464ABA616A577A2",
+      "size": 2887
+    },
+    "docs/hero-left-hug-expanded-search.ftd": {
+      "name": "docs/hero-left-hug-expanded-search.ftd",
+      "hash": "F57523430C4A4E1E26373F5F8A295D9DDBB336DCA948017B2F15AF83317AC942",
+      "size": 2851
+    },
+    "README.md": {
+      "name": "README.md",
+      "hash": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
+      "size": 1416
+    },
+    "assets/search.svg": {
+      "name": "assets/search.svg",
+      "hash": "C43E02D55E757A33224801FAD7127E384FD4D5F1F4F4EAF3076C887A96993F4D",
+      "size": 480
+    },
+    "FASTN/ds.ftd": {
+      "name": "FASTN/ds.ftd",
+      "hash": "868F4790473F623DB319F7B7AE77D446A9F99FA17367FA378C3F9C47FD4109BC",
+      "size": 2589
+    },
+    "_config.yml": {
+      "name": "_config.yml",
+      "hash": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
+      "size": 21
+    },
+    "docs/hero-right-hug-expanded.ftd": {
+      "name": "docs/hero-right-hug-expanded.ftd",
+      "hash": "86ECBDDF3FB9139A24384821DA3DB13B43707C97BA2746155DF60A1EE1144940",
+      "size": 3309
+    }
+  },
+  "zip_url": "https://github.com/fastn-community/hero/archive/2e80cd324fb4980b184d86a7e26586a3d4edf52f.zip",
+  "checksum": "0CA985A57435FDA07E1E1557979A035D811D0D0C0754D79B4698E154D61C0051"
+}
