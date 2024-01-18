@@ -1,116 +1,116 @@
 {
-    "files": {
-      "FASTN/ds.ftd": {
-        "name": "FASTN/ds.ftd",
-        "checksum": "80E77A795703C4411AE1C6AC3896320D73702149B0E201BA12FBF968C16B37AC",
-        "size": 2590
-      },
-      "assets/search.svg": {
-        "name": "assets/search.svg",
-        "checksum": "C43E02D55E757A33224801FAD7127E384FD4D5F1F4F4EAF3076C887A96993F4D",
-        "size": 480
-      },
-      "docs/hero-bottom-hug-search.ftd": {
-        "name": "docs/hero-bottom-hug-search.ftd",
-        "checksum": "A34E38390851C363BB44AC4C051C4882BB5D4575104586B96BCE7289E388B024",
-        "size": 2816
-      },
-      "docs/hero-left-hug-expanded-search.ftd": {
-        "name": "docs/hero-left-hug-expanded-search.ftd",
-        "checksum": "F57523430C4A4E1E26373F5F8A295D9DDBB336DCA948017B2F15AF83317AC942",
-        "size": 2851
-      },
-      "assets/ipsum-logo-dark.svg": {
-        "name": "assets/ipsum-logo-dark.svg",
-        "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
-        "size": 16202
-      },
-      "docs/hero-right-hug-expanded-search.ftd": {
-        "name": "docs/hero-right-hug-expanded-search.ftd",
-        "checksum": "D8286B017CFCF40C506DE05B94573932FD02D2814F66BE22369D66454AB02D93",
-        "size": 2856
-      },
-      "docs/hero-right-hug-search.ftd": {
-        "name": "docs/hero-right-hug-search.ftd",
-        "checksum": "8CC1F7F0F977A52B3BE171324739C930B1E4014D236710B06807FE93B438C4BC",
-        "size": 2797
-      },
-      "_config.yml": {
-        "name": "_config.yml",
-        "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
-        "size": 21
-      },
-      "docs/hero-left-hug-expanded.ftd": {
-        "name": "docs/hero-left-hug-expanded.ftd",
-        "checksum": "60C6D09B23D5A0329C334A78F1B97B59D86757529D1E2CA945893AFFB123687E",
-        "size": 3300
-      },
-      "assets/ipsum-logo.svg": {
-        "name": "assets/ipsum-logo.svg",
-        "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
-        "size": 15494
-      },
-      "docs/hero-right-hug-search-label.ftd": {
-        "name": "docs/hero-right-hug-search-label.ftd",
-        "checksum": "1C6F78A2D85EBE8DA9C31609562CA95B81149375C724A230B1906F34B28B6A30",
-        "size": 3112
-      },
-      "docs/hero-right-hug.ftd": {
-        "name": "docs/hero-right-hug.ftd",
-        "checksum": "524FE2745CC0B3B720BA50E6B92E4F7F7670FC87FE1CB1BF6FBD641DA9000BEB",
-        "size": 3082
-      },
-      "favicon.ico": {
-        "name": "favicon.ico",
-        "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
-        "size": 15406
-      },
-      "assets/check-solid.svg": {
-        "name": "assets/check-solid.svg",
-        "checksum": "25707971B1D5D56A96168FAB177FD9A0E1CBC4959E080BA1FA7C3632D05A0525",
-        "size": 428
-      },
-      "sidebar.ftd": {
-        "name": "sidebar.ftd",
-        "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-        "size": 1281
-      },
-      "README.md": {
-        "name": "README.md",
-        "checksum": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
-        "size": 1416
-      },
-      "docs/hero-right-hug-large.ftd": {
-        "name": "docs/hero-right-hug-large.ftd",
-        "checksum": "92D6E67EB566A1C4A1AB23FDDE4592EFA14286F9DC09AFF2198FB2462B8F8656",
-        "size": 3094
-      },
-      "FASTN.ftd": {
-        "name": "FASTN.ftd",
-        "checksum": "40D5ADFC8F93E493C1AEA536F451F4DCE830FAF96D29427CCA633956E6CEA49D",
-        "size": 1358
-      },
-      "assets/hero-img.jpg": {
-        "name": "assets/hero-img.jpg",
-        "checksum": "28604A38DB8D8EB3112454584C7E0699956F4E2754A97EDA568738D02ADA9D47",
-        "size": 970300
-      },
-      "docs/hero-right-hug-expanded.ftd": {
-        "name": "docs/hero-right-hug-expanded.ftd",
-        "checksum": "86ECBDDF3FB9139A24384821DA3DB13B43707C97BA2746155DF60A1EE1144940",
-        "size": 3309
-      },
-      "docs/hero-bottom-hug.ftd": {
-        "name": "docs/hero-bottom-hug.ftd",
-        "checksum": "738E897B8D24072A22D76D80E9108612CF88F77BCE3937F29464ABA616A577A2",
-        "size": 2887
-      },
-      "index.ftd": {
-        "name": "index.ftd",
-        "checksum": "A4387B4E7D12A5A1466DAB160ACB469E93DDB9D148E8FA38D558A9FA24B24E5B",
-        "size": 23874
-      }
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "40D5ADFC8F93E493C1AEA536F451F4DCE830FAF96D29427CCA633956E6CEA49D",
+      "size": 1358
     },
-    "zip_url": "https://github.com/fastn-community/hero/archive/889c362ded6fdca6fb6c641f874475c2910eeff2.zip",
-    "checksum": "32D1D67069B7773489C1DD647DBFBEC4406D96D9FA77DBABDFF3A5E9A2ABB1D1"
-  }
+    "FASTN/ds.ftd": {
+      "name": "FASTN/ds.ftd",
+      "checksum": "80E77A795703C4411AE1C6AC3896320D73702149B0E201BA12FBF968C16B37AC",
+      "size": 2590
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
+      "size": 1416
+    },
+    "_config.yml": {
+      "name": "_config.yml",
+      "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
+      "size": 21
+    },
+    "assets/check-solid.svg": {
+      "name": "assets/check-solid.svg",
+      "checksum": "25707971B1D5D56A96168FAB177FD9A0E1CBC4959E080BA1FA7C3632D05A0525",
+      "size": 428
+    },
+    "assets/hero-img.jpg": {
+      "name": "assets/hero-img.jpg",
+      "checksum": "28604A38DB8D8EB3112454584C7E0699956F4E2754A97EDA568738D02ADA9D47",
+      "size": 970300
+    },
+    "assets/ipsum-logo-dark.svg": {
+      "name": "assets/ipsum-logo-dark.svg",
+      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
+      "size": 16202
+    },
+    "assets/ipsum-logo.svg": {
+      "name": "assets/ipsum-logo.svg",
+      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
+      "size": 15494
+    },
+    "assets/search.svg": {
+      "name": "assets/search.svg",
+      "checksum": "C43E02D55E757A33224801FAD7127E384FD4D5F1F4F4EAF3076C887A96993F4D",
+      "size": 480
+    },
+    "docs/hero-bottom-hug-search.ftd": {
+      "name": "docs/hero-bottom-hug-search.ftd",
+      "checksum": "A34E38390851C363BB44AC4C051C4882BB5D4575104586B96BCE7289E388B024",
+      "size": 2816
+    },
+    "docs/hero-bottom-hug.ftd": {
+      "name": "docs/hero-bottom-hug.ftd",
+      "checksum": "738E897B8D24072A22D76D80E9108612CF88F77BCE3937F29464ABA616A577A2",
+      "size": 2887
+    },
+    "docs/hero-left-hug-expanded-search.ftd": {
+      "name": "docs/hero-left-hug-expanded-search.ftd",
+      "checksum": "F57523430C4A4E1E26373F5F8A295D9DDBB336DCA948017B2F15AF83317AC942",
+      "size": 2851
+    },
+    "docs/hero-left-hug-expanded.ftd": {
+      "name": "docs/hero-left-hug-expanded.ftd",
+      "checksum": "60C6D09B23D5A0329C334A78F1B97B59D86757529D1E2CA945893AFFB123687E",
+      "size": 3300
+    },
+    "docs/hero-right-hug-expanded-search.ftd": {
+      "name": "docs/hero-right-hug-expanded-search.ftd",
+      "checksum": "D8286B017CFCF40C506DE05B94573932FD02D2814F66BE22369D66454AB02D93",
+      "size": 2856
+    },
+    "docs/hero-right-hug-expanded.ftd": {
+      "name": "docs/hero-right-hug-expanded.ftd",
+      "checksum": "86ECBDDF3FB9139A24384821DA3DB13B43707C97BA2746155DF60A1EE1144940",
+      "size": 3309
+    },
+    "docs/hero-right-hug-large.ftd": {
+      "name": "docs/hero-right-hug-large.ftd",
+      "checksum": "92D6E67EB566A1C4A1AB23FDDE4592EFA14286F9DC09AFF2198FB2462B8F8656",
+      "size": 3094
+    },
+    "docs/hero-right-hug-search-label.ftd": {
+      "name": "docs/hero-right-hug-search-label.ftd",
+      "checksum": "1C6F78A2D85EBE8DA9C31609562CA95B81149375C724A230B1906F34B28B6A30",
+      "size": 3112
+    },
+    "docs/hero-right-hug-search.ftd": {
+      "name": "docs/hero-right-hug-search.ftd",
+      "checksum": "8CC1F7F0F977A52B3BE171324739C930B1E4014D236710B06807FE93B438C4BC",
+      "size": 2797
+    },
+    "docs/hero-right-hug.ftd": {
+      "name": "docs/hero-right-hug.ftd",
+      "checksum": "524FE2745CC0B3B720BA50E6B92E4F7F7670FC87FE1CB1BF6FBD641DA9000BEB",
+      "size": 3082
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
+      "size": 15406
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "A4387B4E7D12A5A1466DAB160ACB469E93DDB9D148E8FA38D558A9FA24B24E5B",
+      "size": 23874
+    },
+    "sidebar.ftd": {
+      "name": "sidebar.ftd",
+      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
+      "size": 1281
+    }
+  },
+  "zip_url": "https://github.com/fastn-community/hero/archive/889c362ded6fdca6fb6c641f874475c2910eeff2.zip",
+  "checksum": "32D1D67069B7773489C1DD647DBFBEC4406D96D9FA77DBABDFF3A5E9A2ABB1D1"
+}
